@@ -1,9 +1,9 @@
-SCZ-EF-stacked-classifiers
+## SCZ-EF-stacked-classifiers
 
 This repository contains the source code accompanying our paper "Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights," published in Schizophrenia Bulletin.
 
 
-Abstract
+## Abstract
 
 Background: Executive functioning (EF) impairments are often seen in mental disorders, particularly schizophrenia, where they relate to adverse outcomes. As a heterogeneous construct, how specifically each dimension of EF characterizes the diagnostic and prognostic aspects of schizophrenia remains opaque.
 
@@ -16,4 +16,5 @@ Conclusions: Our work indicates that impairments in specific EF dimensions in sc
 Keywords: Schizophrenia; Executive functions; Machine learning; Prognostic prediction
 
 
+## Citation:
 Zhang, T., Zhao, X., Yeo, B. T. T., Huo, X., Eickhoff, S. B., & Chen, J. (2024). Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights. medRxiv. https://doi.org/10.1101/2024.12.05.24318587
