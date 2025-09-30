@@ -18,3 +18,8 @@ Keywords: Schizophrenia; Executive functions; Machine learning; Prognostic predi
 
 ## Citation:
 Zhang, T., Zhao, X., Yeo, B. T. T., Huo, X., Eickhoff, S. B., & Chen, J. (2024). Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights. medRxiv. https://doi.org/10.1101/2024.12.05.24318587
+
+
+
+![Study Overview](Figure%201.%20Study%20overview.png)
+*Figure 1. Overview of the study design and analytical framework.*
