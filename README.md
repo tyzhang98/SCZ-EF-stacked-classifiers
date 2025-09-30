@@ -2,7 +2,8 @@
 
 This repository contains the source code accompanying our paper "Leveraging Stacked Classifiers for Multi-task Executive Function in Schizophrenia Yields Diagnostic and Prognostic Insights," published in *Schizophrenia Bulletin*.
 
-![Study Overview](Figure%201.%20Study%20overview.png)
+![Study Overview](Figure%201.jpg)
+
 *Figure 1. Overview of the study design and analytical framework.*
 
 ---
@@ -24,19 +25,27 @@ This repository contains the source code accompanying our paper "Leveraging Stac
 ## Main Findings
 
 ### Executive Function Assessments
-![Multi-task Executive Function](figures/Figure%202.%20Multi-task%20executive%20function%20dimension%20assessments.png)
+
+![Multi-task Executive Function](Figure%202.jpg)
+
 *Figure 2. Multi-task executive function dimension assessments.*
 
 ### Diagnostic Models
-![Diagnostic Models](figures/Figure%203.%20Performance%20and%20feature%20importance%20for%20diagnostic%20models.png)
+
+![Diagnostic Models](Figure%203.jpg)
+
 *Figure 3. Performance and feature importance for diagnostic models.*
 
 ### Prognostic Models
-![Prognostic Models](figures/Figure%204.%20Performance%20and%20feature%20importance%20for%20prognostic%20models.png)
+
+![Prognostic Models](Figure%204.jpg)
+
 *Figure 4. Performance and feature importance for prognostic models.*
 
 ### Feature-Symptom Correlations
-![Feature-Symptom Correlations](figures/Figure%205.%20Correlation%20between%20the%20importance%20of%20an%20executive%20function%20feature%20and%20individual%20psychopathology%20along%20four%20symptom%20dimensions.png)
+
+![Feature-Symptom Correlations](Figure%205.jpg)
+
 *Figure 5. Correlation between the importance of an executive function feature and individual psychopathology along four symptom dimensions.*
 
 ---
